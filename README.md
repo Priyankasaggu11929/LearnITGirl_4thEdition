@@ -5,15 +5,8 @@ A Repository to contain my 12-weeks work progress throughout the LearnITGirl 4th
 #+EMAIL: priyankasaggu11929@gmail.com
 
 * RoadMap
-  :PROPERTIES:
-  :PRIORITY_ALL: A
-  :OWNER:    priyankasaggu119
-  :END:
-** TODO WEEK 1 [50%]
-   SCHEDULED: <2019-03-21 Thu> DEADLINE: <2019-03-23 Sat>
-   :PROPERTIES:
-   :OWNER:    priyankasaggu119
-   :END:
+  
+** WEEK 1 [50%]
 Will Start with learning various trends for Data Collection and some use cases which includes: 
 - [X] Twitter web scraping for Sentiment Analysis. 
 - [X] SQL techniques. 
