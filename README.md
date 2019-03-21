@@ -4,9 +4,9 @@ A Repository to contain my 12-weeks work progress throughout the LearnITGirl 4th
 #+AUTHOR: Priyanka Saggu
 #+EMAIL: priyankasaggu11929@gmail.com
 
-* RoadMap
+# RoadMap
   
-** WEEK 1 [50%]
+## WEEK 1 [50%]
 Will Start with learning various trends for Data Collection and some use cases which includes: 
 - [X] Twitter web scraping for Sentiment Analysis. 
 - [X] SQL techniques. 
@@ -15,7 +15,7 @@ Will Start with learning various trends for Data Collection and some use cases w
 - [ ] Python regular expressions. 
 - [ ] And some reading assignment (Web Scraping Techniques).
 
-** WEEK 2 [%]
+## WEEK 2 [%]
 Will move on to *Statistics and Probability* section and will learn and implement the following: 
 - [ ] Credit scoring. 
 - [ ] Discrete probability. 
@@ -23,7 +23,7 @@ Will move on to *Statistics and Probability* section and will learn and implemen
 - [ ] Central limit theorem. 
 - [ ] And some reading assignment (Hypothesis Testing).
 
-** WEEk 3 [%]
+## WEEk 3 [%]
 This week is planned for Data Visualization. I will learn the following: 
 - [ ] Big Data Visualization. 
 - [ ] Types of Visualizations. 
@@ -32,7 +32,7 @@ This week is planned for Data Visualization. I will learn the following:
 - [ ] Dimensionality reduction. 
 - [ ] And some reading assignment (Visualization history and Visualization tools )
 
-** WEEK 4 [%]     
+## WEEK 4 [%]     
 I will move towards learning *Regression* which will include:
 - [ ] Regression Mathematics. 
 - [ ] Linear Regression in Python tutorial. 
@@ -40,7 +40,7 @@ I will move towards learning *Regression* which will include:
 - [ ] Logistic Regression. 
 - [ ] And some reading assignment (Ridge and Lasso Regression)
  
-** WEEK 5 [%]
+## WEEK 5 [%]
 This week marks for *Supervised learning*. It includes: 
 - [ ] Kaggle practice. 
 - [ ] Support Vector Machines. 
@@ -49,7 +49,7 @@ This week marks for *Supervised learning*. It includes:
 - [ ] Feed Forward Neural Networks. 
 - [ ] And some reading assignment (Supervised Learning).
 
-** WEEK 6 [%]
+## WEEK 6 [%]
 I will continue *Supervised Learning* in this week too. 
 - [ ] Ensemble Learning. 
 - [ ] Machine Learning with No Code. 
@@ -58,7 +58,7 @@ I will continue *Supervised Learning* in this week too.
 - [ ] Will work on Midterm assignment (Linear Regression for Price Prediction). 
 - [ ] And some reading assignment (Supervised Learning mathematics).
 
-** WEEK 7 [%]
+## WEEK 7 [%]
 This week marks for *Unsupervised Learning*. I will be going through: 
 - [ ] Introduction to Unsupervised Learning. 
 - [ ] Anomaly Detection. 
@@ -68,7 +68,7 @@ This week marks for *Unsupervised Learning*. I will be going through:
 - [ ] Topic Modeling Tutorial (Latent Dirichlet Allocation). 
 - [ ] And some reading assignment (Unsupervised Learning Techniques).
 
-** WEEK 8 [%]
+## WEEK 8 [%]
 Will continue *Unsupervised Learning* here too. 
 - [ ] Fraud Detection. 
 - [ ] Portfolio Optimization. 
@@ -78,7 +78,7 @@ Will continue *Unsupervised Learning* here too.
 - [ ] The t-SNE Technique. 
 - [ ] Dimensionality Reduction Techniques Compared.
 
-** WEEK 9 [%]
+## WEEK 9 [%]
 This week marks for entering into *Deep Learning*. 
 - [ ] Drug Discovery. 
 - [ ] Medical Imaging. 
@@ -88,7 +88,7 @@ This week marks for entering into *Deep Learning*.
 - [ ] Modern Deep Learning Techniques. 
 - [ ] Backpropagation.
 
-** WEEK 10 [%]
+## WEEK 10 [%]
 This week marks for *Deep Reinforcement Learning*. It will include working on: 
 - [ ] Autonomous Systems. 
 - [ ] Q&A Support Systems. 
@@ -98,7 +98,7 @@ This week marks for *Deep Reinforcement Learning*. It will include working on:
 - [ ] Robotic Data. 
 - [ ] Internet of Things Systems.
 
-** WEEK 11 [%]
+## WEEK 11 [%]
 This week marks for entering into the domain of *Distributed Computing*. 
 - [ ] Hadoop. 
 - [ ] PySpark. 
@@ -108,7 +108,7 @@ This week marks for entering into the domain of *Distributed Computing*.
 - [ ] Modern Distributed Systems. 
 - [ ] Integration Tools.
 
-** WEEK 12 [%]
+## WEEK 12 [%]
 And Finally, the last week marks for *Data Storytelling*: 
 - [ ] Data Science presentation guide. 
 - [ ] Designing an Automated Pipeline. 
