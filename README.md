@@ -11,7 +11,7 @@ Will Start with learning various trends for Data Collection and some use cases w
 - [X] Twitter web scraping for Sentiment Analysis. 
 - [X] SQL techniques. 
 - [X] Cleaning text data. 
-- [ ] Data cleaning tutorial with OpenRefine.
+- [X] Data cleaning tutorial with OpenRefine.
 - [ ] Python regular expressions. 
 - [ ] And some reading assignment (Web Scraping Techniques).
 
